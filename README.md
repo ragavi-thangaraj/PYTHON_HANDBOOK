@@ -9,82 +9,42 @@ My personal learning notes, crafted for clarity and beginner-friendly understand
 
 📂 What the repo includes
 
-python-learning/
+## Folder Structure Overview
+
+```
+python-handbook/
 │
-├── basics/
+├── 🧱 basics/                 # Fundamentals of Python
 │   ├── variables.py
 │   ├── input_output.py
 │   ├── data_types.py
 │   └── comments.py
 │
-├── control_flow/
+├── 🔀 control_flow/           # Conditionals & Loops
 │   ├── if_else.py
 │   ├── loops.py
 │   └── pattern_programs.py
 │
-├── functions/
+├── 🧩 functions/              # Functions & Recursion
 │   ├── function_basics.py
 │   ├── recursion.py
 │   └── lambda_functions.py
 │
-├── data_structures/
+├── 📚 data_structures/        # Python Collections
 │   ├── lists.py
 │   ├── tuples.py
 │   ├── sets.py
 │   ├── dictionaries.py
 │   └── slicing.py
 │
-├── problems/
+├── 🧠 problems/               # Practice Problems
 │   ├── easy/
 │   ├── medium/
 │   └── hard/
 │
-└── README.md
+└── 📄 README.md
+```
 
-
-✔ Python Basics
-
-Variables, Input/Output
-
-Data types
-
-Operators
-
-Comments
-
-✔ Control Flow
-
-if / else
-
-loops
-
-pattern programs
-
-✔ Functions
-
-parameters, return values
-
-recursion
-
-lambda
-
-✔ Data Structures
-
-lists
-
-slicing
-
-sets
-
-dictionaries
-
-✔ Practice Problems
-
-Easy
-
-Medium
-
-Interview-level questions
 
 🛠 How to Use This Repo
 
