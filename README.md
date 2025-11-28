@@ -1,15 +1,14 @@
 # PYTHON_HANDBOOK
-📘 Python Learning Repository
 
 A complete collection of Python programs, explanations, and examples to help learn Python in the easiest possible way.
 
-Why this Repository?
+## Why this Repository?
 
 My personal learning notes, crafted for clarity and beginner-friendly understanding - perfect for anyone wanting to grasp Python better, try things out, and add improvements along the way.
 
-📂 What the repo includes
+## 📂 What the repo includes
 
-## Folder Structure Overview
+# Folder Structure Overview
 
 ```
 python-handbook/
@@ -46,7 +45,7 @@ python-handbook/
 ```
 
 
-🛠 How to Use This Repo
+## 🛠 How to Use This Repo
 
 Click on any folder (ex: basics/)
 
@@ -54,14 +53,14 @@ Open a .py file
 
 Read the comments & code
 
-Run it using:
+## Run it using:
 
 python filename.py
 
 
 Practice by modifying the code
 
-🤝 Contributing
+## 🤝 Contributing
 
 If you'd like to add improvements, fixes, or new examples, feel free to open a pull request.
 
