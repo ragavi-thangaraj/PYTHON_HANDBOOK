@@ -6,9 +6,9 @@ A complete collection of Python programs, explanations, and examples to help lea
 
 My personal learning notes, crafted for clarity and beginner-friendly understanding - perfect for anyone wanting to grasp Python better, try things out, and add improvements along the way.
 
-## 📂 What the repo includes
+# 📂 What the repo includes
 
-# Folder Structure Overview
+## Folder Structure Overview
 
 ```
 python-handbook/
